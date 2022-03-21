@@ -1,0 +1,23 @@
+{
+  "name": "@crowded.me/crowded.icons",
+  "version": "1.0.0",
+  "description": "This is a project to use icons for Crowded Portal web",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrowdedApp/crowded.icons.git"
+  },
+  "keywords": [
+    "icons",
+    "crowded"
+  ],
+  "author": "Aarón Montes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CrowdedApp/crowded.icons/issues"
+  },
+  "homepage": "https://github.com/CrowdedApp/crowded.icons#readme"
+}
